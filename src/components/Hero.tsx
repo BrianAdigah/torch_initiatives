@@ -8,7 +8,7 @@ import Spinner from "./Spinner";
 
 export const Hero = async () => {
   var  link  = '#/'
-  var header = 'Welcome to Torch Initiatives'
+  var header = 'Africa Vegan Restaurant Week 🎊🎉, the first of its kind on the continent!🌍'
 
 
   

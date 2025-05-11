@@ -7,10 +7,9 @@ import Spinner from "./Spinner";
 const Values = async () => {
 
     var values:any[] = [
-        { title:"Youth Empowerment And Employment", description:"" },
-        { title:"COMMUNITY SUSTAINABILITY AND AWARENESS", description:"" },
-        { title:"Local Resource Mobilization Partnerships", description:"" },
-        { title:"Test", description:"" }
+        { title:"Youth Empowerment And Employment", description:"To equip young individuals with positive attitudes and 21st-century employability skills.Activities: Specialized training sessions, mentorship programs, and workshops aimed at fostering a mindset of adaptability and confidence among young people entering the workforce" },
+        { title:"Community Sustainability And Awareness", description:"To empower communities with sustainable attitudes, harnessing local resources for development and improving livelihoods. Activities: Awareness campaigns, resource utilization workshops, and initiatives to promote sustainable practices within communities." },
+        { title:"Plant Base Advocacy & Animal Welfare", description:"To advocate for animal welfare and promote eco-friendly, plant-based eating diets.Activities: our comprehensive approach encompasses collaborative initiatives with advocates, impactful awareness campaigns, and school educational programs" },
     ]
 
    

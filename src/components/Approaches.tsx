@@ -11,7 +11,7 @@ import { ApproachProps } from "@/types";
 export const Approaches = async () => {
     const supabase = createClient();
     const approaches:any[] = [
-        { id: 1, imgSrc: "/img/image1.jpg", title: "Person-Centered Care", description: "We focus on individualized support tailored to each resident’s unique needs.", buttonText: "Learn More", tag: "Care", imgPos: "left", caption: "Empowering independence through support" },
+        { id: 1, imgSrc: "/img/image1.jpg", title: "ABOUT TORCH INITIATIVES", description: "One of our core initiatives includes promoting a healthy eco-friendly plant based eating lifestyle.  We acknowledge its significance for individual well-being and environmental sustainability, firmly believing that encouraging a vegan dietary approach contributes to a collective effort for a healthier planet.Believing in the inherent strengths of every individual and community, we aim to harness these potentials for enhanced livelihoods. Join us in shaping resilient communities, fostering fulfilled future generations through proper resource stewardship. Together, let's build a sustainable and thriving tomorrow.", buttonText: "Learn More", tag: "", imgPos: "left", caption: "Empowering independence through support" },
     ]
     
 
