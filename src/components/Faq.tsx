@@ -13,10 +13,10 @@ const Faq = () => {
 
   
       var data:any[] = [
-        {title: "What is your return policy?", description: "We offer a 30-day return policy with a full refund."},
-        {title: "What is your return policy?", description: "We offer a 30-day return policy with a full refund."},
-        {title: "What is your return policy?", description: "We offer a 30-day return policy with a full refund."},
-        {title: "What is your return policy?", description: "We offer a 30-day return policy with a full refund."},
+        {title: "What is Torch Initiatives all about?", description: "Torch Initiatives focuses on social responsibility, aiming to empower youth with positive attitudes and skills while promoting community sustainability. We champion the effective use of local resources, foster positive community cultures, and encourage responsible stewardship."},
+        {title: "What are some of the core activities of Torch Initiatives?", description: "One of our key initiatives is promoting a healthy, eco-friendly, plant-based eating lifestyle. We believe this is important for individual well-being and the health of our planet. We also work to identify and utilize the inherent strengths within individuals and communities to improve livelihoods."},
+        {title: "What is the vision of Torch Initiatives?", description: "We envision a future where empowered generations develop a transformative mindset, leading to resilient communities that thrive through sustainability, compassion, and positive change."},
+        {title: "What is the mission of Torch Initiatives?", description: "Our mission is to catalyze transformative attitudes and equip individuals for a brighter future. Through dynamic initiatives, we aim to create lasting empowerment and sustainability that will benefit generations within our inspired communities."},
       ]
       
     

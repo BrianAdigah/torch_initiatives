@@ -13,9 +13,9 @@ import Spinner from "./Spinner";
 export const Team= async () => {
   const supabase = createClient();
   var teams:any[] = [
-    { imageSrc: "/img/user1.jpeg", name: "John Doe", title: "CEO", description: "John is the visionary behind our company and leads with purpose."},
-    { imageSrc: "/img/user2.jpeg", name: "John Doe", title: "CEO", description: "John is the visionary behind our company and leads with purpose."},
-    { imageSrc: "/img/user4.jpeg", name: "John Doe", title: "CEO", description: "John is the visionary behind our company and leads with purpose."},
+    { imageSrc: "/img/user2.jpeg", name: "Virginia Ruguru", title: "Founder and Team Leader", description: "With a passion for positive change, Virginia is at the forefront of empowering communities and fostering sustainable living. As a dedicated advocate for plant-based lifestyles and holistic well-being, she brings visionary leadership to our team. Through her expertise, we navigate the path toward a brighter future, driven by commitment to transformative impact.."},
+    { imageSrc: "/img/user1.jpeg", name: "Phanuel Mathenge ", title: "Head of Logistics", description: ". As the Logistics Lead, he brings a wealth of experience in coordinating and optimizing supply chain activities. His strategic mindset ensures seamless coordination in the delivery of our initiatives. With a dedication to efficiency and precision, Phanuel plays a crucial role in ensuring that our projects are executed with the utmost effectiveness."},
+    { imageSrc: "/img/user3.jpeg", name: "Gitura Mwaura", title: "Communications Consultant", description: "  With a rich background in impacting rural communities across Africa through his work with Trans World Radio, Gitura brings a wealth of experience to our team. His diverse skill set includes impact assessment, reporting, and the production of compelling project documentaries. In addition to contributing to various community media platforms, "},
   ]
     
   return (
